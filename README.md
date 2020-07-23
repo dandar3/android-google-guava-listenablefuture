@@ -1,4 +1,4 @@
-## google-dagger
+## google-guava-listenablefuture
 
 Eclipse library project based on:<br/>
 https://repo1.maven.org/maven2/com/google/guava/listenablefuture/1.0/listenablefuture-1.0.jar
